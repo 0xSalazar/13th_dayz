@@ -67,14 +67,14 @@
 			"disableIsPlacementPermittedCheck": true,
 			"disableHeightPlacementCheck": true,
 			"disableIsUnderwaterCheck": true,
-			"disableIsInTerrainCheck": false,
+			"disableIsInTerrainCheck": true,
 			"disallowedTypesInUnderground": ["FenceKit","TerritoryFlagKit","WatchtowerKit"]
 		},
 		"ConstructionData":
 		{
 			"disablePerformRoofCheck": true,
-			"disableIsCollidingCheck": false,
-			"disableDistanceCheck": false
+			"disableIsCollidingCheck": true,
+			"disableDistanceCheck": true
 		}
 	},
 	"UIData":
