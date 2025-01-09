@@ -3,7 +3,7 @@
     <!-- reminder for server restart-->
     <message> 
         <deadline>360</deadline>
-        <shutdown>1</shutdown>
+        <shutdown>0</shutdown>
         <text>This server (#name) will restart in #tmin minutes.</text>
     </message>
 
