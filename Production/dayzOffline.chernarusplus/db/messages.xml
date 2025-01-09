@@ -2,7 +2,7 @@
 <messages>
     <!-- reminder for server restart-->
     <message> 
-        <deadline>360</deadline>
+        <deadline>330</deadline>
         <shutdown>0</shutdown>
         <text>This server (#name) will restart in #tmin minutes.</text>
     </message>
